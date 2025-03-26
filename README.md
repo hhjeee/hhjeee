@@ -1,3 +1,4 @@
+### Hi there 👋
 <!--
 **hhjeee/hhjeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,34 +14,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4 align="center"> Korea University Dept. of Computer Science & Engineering 21 </h4>
-<br>
+<div style="text-align: left;">
+  <h3 color: #282d33;"> 🛠️ Tech Stacks </h2>
+    <div style="margin: ; text-align: left;"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
+      <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+      <br/><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+    </div>
+</div>
 
-<!-- <br>
-<h4 align="center"> 🌱 Tech Stack </h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-005571?style=flat&logo=ts-node&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/NodeJS-11B48A?style=flat&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Docker-DB3552?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySql-E6B91E?style=flat&logo=MySql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MongoDB-3766AB?style=flat&logo=mongodb&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/aws-333664?style=flat&logo=amazon-aws&logoColor=white"/></a>&nbsp
-</p> -->
+<br />
 
-<br> 
-<h4 align="center">👨🏻‍💻 Git Stats </h4>
-<p align="center">
-  <a href="https://github.com/hhjeee">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hhjeee&&hide_title=true&theme=tokyonight" />
-  </a>
-</p>
-<br>
-<h4 align="center">🏅 Baekjoon Solved Rank </h4>
-<p align="center">
-  <a href="https://github.com/hhjeee">
-    <img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=yoonhj315" />
-  </a>
-</p>
+<h3 color: #282d33;"> 🏅 Stats & Baekjoon Solved Rank </h2>
+    <div style="text-align: left;">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=hhjeee&&hide_title=true&theme=tokyonight" />
+      <img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=yoonhj315" />
+    </div> 
